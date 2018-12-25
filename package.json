@@ -2,13 +2,18 @@
   "name": "background-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b["
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raharon/Background-Generator.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raharon/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/raharon/Background-Generator#readme"
 }
